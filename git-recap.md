@@ -52,6 +52,8 @@ git branch -d <branch>                             # Delete local branch
 
 git push origin --delete <branch>                  # Delete remote branch
 
+git branch --unset-upstream                        # Remove track from branch
+
 
 ## 4. Remote Management
 
