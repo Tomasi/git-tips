@@ -42,7 +42,8 @@ git branch <name>                                  # Create new branch
 
 git checkout <branch>                              # Switch branches
 
-git checkout -b <new-branch>                       # Create and switch to new branch
+git checkout -b <new-branch> ou                    # Create and switch to new branch 
+git checkout --track <origin/branch>               
 
 git switch <branch>                                # Newer way to switch branches
 
