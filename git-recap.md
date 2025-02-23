@@ -42,7 +42,7 @@ git branch <name>                                  # Create new branch
 
 git branch -vv                                     # List information about local branchs and their remote (who is tracking? commit are behind ou ahead?)
 
-git branch -u origin/serverfix                     # Set remote track to branch
+git branch -u <origin/branch>                     # Set remote track to branch
 
 git checkout <branch>                              # Switch branches
 
