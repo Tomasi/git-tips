@@ -40,6 +40,8 @@ git branch -a                                      # List all branches (local + 
 
 git branch <name>                                  # Create new branch
 
+git branch -u origin/serverfix                     # Set remote track to branch
+
 git checkout <branch>                              # Switch branches
 
 git checkout -b <new-branch> ou                    # Create and switch to new branch 
