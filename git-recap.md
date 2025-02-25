@@ -10,6 +10,8 @@ git config --global --edit                         # Edit global config file
 
 git config --list                                  # List current configurations
 
+git config --get                                   # Get value parameter
+
 git config credential.helper cache                 # Cache credentials (15min default)
 
 ## 2. Basic Workflow
