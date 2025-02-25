@@ -72,6 +72,8 @@ git pull                                           # Fetch + merge (default: ori
 
 git pull --rebase                                  # Fetch + rebase instead of merge
 
+git pull --f-only                                  # Use only fast forward stratagy
+
 git push -u origin <branch>                        # Push & set upstream
 
 git push --force-with-lease                        # Safer force push
